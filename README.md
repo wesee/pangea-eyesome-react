@@ -1,7 +1,7 @@
 # <h1 align="center"> Pangea +Eyesome </h1>
 <h3 align="center">Eyesome is a platform dedicated to providing a seamless shopping experience for eyewear products.</h3>
 <br/>
-<h3 align="center">Add Pangea integration</h3>h3>
+<h3 align="center">Add Pangea integration</h3>
 
 ## Getting Started
 
